@@ -1,0 +1,12 @@
+# Python Bytecode Files
+*.pyc
+__pycache__/
+
+# Dependencies (Εικονικα Περιβαλλοντα)
+venv/
+env/
+.venv/
+
+# Pygame & OS generated files
+.DS_Store
+Thumbs.db
